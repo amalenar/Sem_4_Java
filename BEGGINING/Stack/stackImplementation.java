@@ -13,7 +13,7 @@ class ourStack {
         arr = new int[max];
         top = -1;
     }
-
+//for pushing
     public void push(int j) {
         arr[++top] = j;
     }
